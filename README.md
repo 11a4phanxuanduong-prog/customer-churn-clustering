@@ -16,6 +16,8 @@ Phụ trách toàn bộ phần Phân cụm (K-Means, DBSCAN) và Phân loại
 - Phân loại churn: K-NN (chọn K theo F1-score), SVM 
   (class_weight='balanced' do dữ liệu lệch lớp ~8.9% churn)
 
+## Data
+https://www.kaggle.com/datasets/meruvakodandasuraj/e-commerce-customer-behavior-and-sales-20202026/data?select=customers.csv
 ## Kết quả
 
 ### Phân cụm
